@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "description": "JS DApp",
   "dependencies": {
-    "@deroll/app": "^0.7.0",
-    "@deroll/wallet": "^0.8.0",
-    "ethers": "^6.7.1",
-    "viem": "^2.19.4"
+    "ethers": "^6.7.1"
   },
   "devDependencies": {
     "esbuild": "^0.19.2"
